@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aryan1209-byte.github.io/olympiad-daily/sitemap.xml
